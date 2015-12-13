@@ -5,7 +5,6 @@
 // my lib
 #include "Const.h"
 #include "ofxLider.h"
-#include "OscManager.h"
 #include "ThetasManager.h"
 
 // addon
